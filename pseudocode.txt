@@ -1,0 +1,11 @@
+// Deklarasi
+jari-jari (r) = float
+pi = float
+keliling = float
+
+// Algoritma
+jari-jari = INPUT("Masukan nilai jari-jari")
+
+keliling = 2 * 3,14 * jari-jari
+
+OUTPUT("HASIL = " + keliling)

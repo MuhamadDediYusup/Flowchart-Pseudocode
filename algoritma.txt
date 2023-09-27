@@ -1,6 +1,6 @@
 Mulai
 Masukkan nilai jari-jari (r) lingkaran
 Hitung keliling lingkaran:
-   - Keliling = 2 x 3.14159265359 x r
+   - Keliling = 2 x 3.14 x r
 Tampilkan hasil keliling lingkaran
 Selesai
